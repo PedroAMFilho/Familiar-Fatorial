@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4+bAORRjxPSbtmLW6lx7ojcdFjHEn2CE0anzNotOAjlVwlmSGezD3WsOtiNc9wz2qyxzerOPgzlsZTBWEXqdZA==",
+  "dgSpecHash": "otw/NblaXuI/HzU4sESF8NR/CZ6moI4jXY4Bu+je/RBk9NdeNjwnLEtvPcmqFGZ307kQq+X8E+EtiHfL90eIWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PedroAugusto\\source\\repos\\FamiliarFatorialv1\\FamiliarFatorial\\FamiliarFatorial.Console.csproj",
+  "projectFilePath": "C:\\Familiar-Fatorial\\Familiar-Fatorial\\FamiliarFatorial\\FamiliarFatorial.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PedroAugusto\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\PedroAugusto\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

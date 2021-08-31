@@ -1,0 +1,12 @@
+C:\Familiar-Fatorial\Familiar-Fatorial\FamiliaFatorial.Shared\bin\Debug\net5.0\FamiliaFatorial.Shared.deps.json
+C:\Familiar-Fatorial\Familiar-Fatorial\FamiliaFatorial.Shared\bin\Debug\net5.0\FamiliaFatorial.Shared.dll
+C:\Familiar-Fatorial\Familiar-Fatorial\FamiliaFatorial.Shared\bin\Debug\net5.0\ref\FamiliaFatorial.Shared.dll
+C:\Familiar-Fatorial\Familiar-Fatorial\FamiliaFatorial.Shared\bin\Debug\net5.0\FamiliaFatorial.Shared.pdb
+C:\Familiar-Fatorial\Familiar-Fatorial\FamiliaFatorial.Shared\obj\Debug\net5.0\FamiliaFatorial.Shared.csproj.AssemblyReference.cache
+C:\Familiar-Fatorial\Familiar-Fatorial\FamiliaFatorial.Shared\obj\Debug\net5.0\FamiliaFatorial.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Familiar-Fatorial\Familiar-Fatorial\FamiliaFatorial.Shared\obj\Debug\net5.0\FamiliaFatorial.Shared.AssemblyInfoInputs.cache
+C:\Familiar-Fatorial\Familiar-Fatorial\FamiliaFatorial.Shared\obj\Debug\net5.0\FamiliaFatorial.Shared.AssemblyInfo.cs
+C:\Familiar-Fatorial\Familiar-Fatorial\FamiliaFatorial.Shared\obj\Debug\net5.0\FamiliaFatorial.Shared.csproj.CoreCompileInputs.cache
+C:\Familiar-Fatorial\Familiar-Fatorial\FamiliaFatorial.Shared\obj\Debug\net5.0\FamiliaFatorial.Shared.dll
+C:\Familiar-Fatorial\Familiar-Fatorial\FamiliaFatorial.Shared\obj\Debug\net5.0\ref\FamiliaFatorial.Shared.dll
+C:\Familiar-Fatorial\Familiar-Fatorial\FamiliaFatorial.Shared\obj\Debug\net5.0\FamiliaFatorial.Shared.pdb

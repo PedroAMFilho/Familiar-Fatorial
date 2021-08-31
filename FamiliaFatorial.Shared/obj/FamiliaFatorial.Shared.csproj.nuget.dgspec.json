@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PedroAugusto\\source\\repos\\FamiliarFatorialv1\\FamiliaFatorial.Shared\\FamiliaFatorial.Shared.csproj": {}
+    "C:\\Familiar-Fatorial\\Familiar-Fatorial\\FamiliaFatorial.Shared\\FamiliaFatorial.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PedroAugusto\\source\\repos\\FamiliarFatorialv1\\FamiliaFatorial.Shared\\FamiliaFatorial.Shared.csproj": {
+    "C:\\Familiar-Fatorial\\Familiar-Fatorial\\FamiliaFatorial.Shared\\FamiliaFatorial.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PedroAugusto\\source\\repos\\FamiliarFatorialv1\\FamiliaFatorial.Shared\\FamiliaFatorial.Shared.csproj",
+        "projectUniqueName": "C:\\Familiar-Fatorial\\Familiar-Fatorial\\FamiliaFatorial.Shared\\FamiliaFatorial.Shared.csproj",
         "projectName": "FamiliaFatorial.Shared",
-        "projectPath": "C:\\Users\\PedroAugusto\\source\\repos\\FamiliarFatorialv1\\FamiliaFatorial.Shared\\FamiliaFatorial.Shared.csproj",
+        "projectPath": "C:\\Familiar-Fatorial\\Familiar-Fatorial\\FamiliaFatorial.Shared\\FamiliaFatorial.Shared.csproj",
         "packagesPath": "C:\\Users\\PedroAugusto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PedroAugusto\\source\\repos\\FamiliarFatorialv1\\FamiliaFatorial.Shared\\obj\\",
+        "outputPath": "C:\\Familiar-Fatorial\\Familiar-Fatorial\\FamiliaFatorial.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

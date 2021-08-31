@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FamiliarFatorial.Domain/1.0.0": {
+        "dependencies": {
+          "FamiliaFatorial.Shared": "1.0.0"
+        },
+        "runtime": {
+          "FamiliarFatorial.Domain.dll": {}
+        }
+      },
+      "FamiliaFatorial.Shared/1.0.0": {
+        "runtime": {
+          "FamiliaFatorial.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FamiliarFatorial.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FamiliaFatorial.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

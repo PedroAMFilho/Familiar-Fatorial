@@ -277,11 +277,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PedroAugusto\\source\\repos\\FamiliarFatorialv1\\FamiliarFatorial.Api\\FamiliarFatorial.Api.csproj",
+      "projectUniqueName": "C:\\Familiar-Fatorial\\Familiar-Fatorial\\FamiliarFatorial.Api\\FamiliarFatorial.Api.csproj",
       "projectName": "FamiliarFatorial.Api",
-      "projectPath": "C:\\Users\\PedroAugusto\\source\\repos\\FamiliarFatorialv1\\FamiliarFatorial.Api\\FamiliarFatorial.Api.csproj",
+      "projectPath": "C:\\Familiar-Fatorial\\Familiar-Fatorial\\FamiliarFatorial.Api\\FamiliarFatorial.Api.csproj",
       "packagesPath": "C:\\Users\\PedroAugusto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PedroAugusto\\source\\repos\\FamiliarFatorialv1\\FamiliarFatorial.Api\\obj\\",
+      "outputPath": "C:\\Familiar-Fatorial\\Familiar-Fatorial\\FamiliarFatorial.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -304,8 +304,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\PedroAugusto\\source\\repos\\FamiliarFatorialv1\\FamiliarFatorial.Domain\\FamiliarFatorial.Domain.csproj": {
-              "projectPath": "C:\\Users\\PedroAugusto\\source\\repos\\FamiliarFatorialv1\\FamiliarFatorial.Domain\\FamiliarFatorial.Domain.csproj"
+            "C:\\Familiar-Fatorial\\Familiar-Fatorial\\FamiliarFatorial.Domain\\FamiliarFatorial.Domain.csproj": {
+              "projectPath": "C:\\Familiar-Fatorial\\Familiar-Fatorial\\FamiliarFatorial.Domain\\FamiliarFatorial.Domain.csproj"
             }
           }
         }
