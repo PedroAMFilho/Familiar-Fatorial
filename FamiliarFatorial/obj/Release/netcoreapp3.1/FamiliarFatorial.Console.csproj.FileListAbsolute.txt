@@ -1,0 +1,4 @@
+C:\Users\PedroAugusto\source\repos\FamiliarFatorialApi\FamiliarFatorial\obj\Release\netcoreapp3.1\FamiliarFatorial.Console.csproj.AssemblyReference.cache
+C:\Users\PedroAugusto\source\repos\FamiliarFatorialApi\FamiliarFatorial\obj\Release\netcoreapp3.1\FamiliarFatorial.Console.AssemblyInfoInputs.cache
+C:\Users\PedroAugusto\source\repos\FamiliarFatorialApi\FamiliarFatorial\obj\Release\netcoreapp3.1\FamiliarFatorial.Console.AssemblyInfo.cs
+C:\Users\PedroAugusto\source\repos\FamiliarFatorialApi\FamiliarFatorial\obj\Release\netcoreapp3.1\FamiliarFatorial.Console.csproj.CoreCompileInputs.cache

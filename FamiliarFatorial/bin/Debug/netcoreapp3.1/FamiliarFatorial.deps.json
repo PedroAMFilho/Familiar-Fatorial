@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FamiliarFatorial/1.0.0": {
+        "runtime": {
+          "FamiliarFatorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FamiliarFatorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

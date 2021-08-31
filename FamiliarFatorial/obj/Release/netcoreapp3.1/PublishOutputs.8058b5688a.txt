@@ -1,0 +1,5 @@
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\bin\Release\netcoreapp3.1\publish\FamiliarFatorial.exe
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\bin\Release\netcoreapp3.1\publish\FamiliarFatorial.dll
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\bin\Release\netcoreapp3.1\publish\FamiliarFatorial.deps.json
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\bin\Release\netcoreapp3.1\publish\FamiliarFatorial.runtimeconfig.json
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\bin\Release\netcoreapp3.1\publish\FamiliarFatorial.pdb

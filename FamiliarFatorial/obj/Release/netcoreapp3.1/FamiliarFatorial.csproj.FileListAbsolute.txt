@@ -1,0 +1,16 @@
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\bin\Release\netcoreapp3.1\FamiliarFatorial.exe
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\bin\Release\netcoreapp3.1\FamiliarFatorial.deps.json
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\bin\Release\netcoreapp3.1\FamiliarFatorial.runtimeconfig.json
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\bin\Release\netcoreapp3.1\FamiliarFatorial.runtimeconfig.dev.json
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\bin\Release\netcoreapp3.1\FamiliarFatorial.dll
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\bin\Release\netcoreapp3.1\FamiliarFatorial.pdb
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\obj\Release\netcoreapp3.1\FamiliarFatorial.csproj.AssemblyReference.cache
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\obj\Release\netcoreapp3.1\FamiliarFatorial.AssemblyInfoInputs.cache
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\obj\Release\netcoreapp3.1\FamiliarFatorial.AssemblyInfo.cs
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\obj\Release\netcoreapp3.1\FamiliarFatorial.csproj.CoreCompileInputs.cache
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\obj\Release\netcoreapp3.1\FamiliarFatorial.dll
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\obj\Release\netcoreapp3.1\FamiliarFatorial.pdb
+C:\Users\PedroAugusto\source\repos\FamiliarFatorial\FamiliarFatorial\obj\Release\netcoreapp3.1\FamiliarFatorial.genruntimeconfig.cache
+C:\Users\PedroAugusto\source\repos\FamiliarFatorialApi\FamiliarFatorial\obj\Release\netcoreapp3.1\FamiliarFatorial.AssemblyInfoInputs.cache
+C:\Users\PedroAugusto\source\repos\FamiliarFatorialApi\FamiliarFatorial\obj\Release\netcoreapp3.1\FamiliarFatorial.AssemblyInfo.cs
+C:\Users\PedroAugusto\source\repos\FamiliarFatorialApi\FamiliarFatorial\obj\Release\netcoreapp3.1\FamiliarFatorial.csproj.CoreCompileInputs.cache
