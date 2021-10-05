@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "x2bFAQP5868rQ5XEdX7oEv/DO1z4Rc/51OHpZkQ3xi0bz9NeiMAWqYTpIfALcHm58xzxAh07SMznYSPG5M90oQ==",
+  "dgSpecHash": "ot4MS7rXJbL10zIN6yI5X8Z7XjlxYBGbDhFLq7mOJaHolcFC04myNHYVC1Oc7tX+SjlOAId7KQO1Einob/X8Og==",
   "success": true,
   "projectFilePath": "C:\\Familiar-Fatorial\\Familiar-Fatorial\\FamiliarFatorial.Api\\FamiliarFatorial.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PedroAugusto\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\PedroAugusto\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\PedroAugusto\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\PedroAugusto\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\PedroAugusto\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.5\\swashbuckle.aspnetcore.6.1.5.nupkg.sha512",
     "C:\\Users\\PedroAugusto\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.5\\swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",

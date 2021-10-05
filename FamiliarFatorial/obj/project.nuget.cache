@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "otw/NblaXuI/HzU4sESF8NR/CZ6moI4jXY4Bu+je/RBk9NdeNjwnLEtvPcmqFGZ307kQq+X8E+EtiHfL90eIWQ==",
+  "dgSpecHash": "SLTK1mRU/0mtka6RcAd4kYSiT5jM6v4/9n9A3AB0vYPJMhsrBctORwQ8yhhB1lqtdXkofB+CLB7GTfB6qWyAMQ==",
   "success": true,
   "projectFilePath": "C:\\Familiar-Fatorial\\Familiar-Fatorial\\FamiliarFatorial\\FamiliarFatorial.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PedroAugusto\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\PedroAugusto\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\PedroAugusto\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\PedroAugusto\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
     "C:\\Users\\PedroAugusto\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

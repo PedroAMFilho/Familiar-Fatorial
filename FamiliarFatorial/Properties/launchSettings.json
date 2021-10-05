@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FamiliarFatorial.Console": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
